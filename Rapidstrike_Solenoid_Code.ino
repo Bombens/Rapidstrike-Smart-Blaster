@@ -7,9 +7,8 @@
 
 //Pin Definition
 #define triggerPin 8
-#define dartCounterPin 3
-#define solenoidGo 10
-#define flywheelPin 5
+#define solenoidGo 5
+#define flywheelPin 10
 #define revPin 7
 #define magOutPin 4
 #define jamDoorPin 9
